@@ -1,7 +1,0 @@
-deployment:
-  method: "git"
-  branch: "main"
-  repository: "https://github.com/MindSparksDigitalAgency/landing-mindsparks.id.git"
-  username: "minz4411"
-  password: "M9s28hDTaGJS38"
-  app_root: "/home/minz4411/public_html"
