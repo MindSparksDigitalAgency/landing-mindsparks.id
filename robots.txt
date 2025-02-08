@@ -1,9 +1,0 @@
-User-agent: *
-Disallow: /private/
-
-# Direktif Googlebot
-User-agent: Googlebot
-Disallow: /test/
-
-# Sitemap
-Sitemap: https://mindsparks.id/sitemap.xml
